@@ -8,6 +8,6 @@ I have used useContext mainly to manage the states when I add the products to th
 
 # Screenshots
 
-![Screenshot 1](./ss1.png)
-![Screenshot 2](./ss2.png)
-![Screenshot 3](./ss3.png)
+![Screenshot 1](ss1.png)
+![Screenshot 2](ss2.png)
+![Screenshot 3](ss3.png)
