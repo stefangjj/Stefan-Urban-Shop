@@ -1,0 +1,24 @@
+.cartItems{
+    display: block;
+}
+.btn{
+    padding: 15px 20px;
+    background-color: rgb(39, 36, 36);
+    color: white;
+    border-radius: 10px;
+    margin: 5px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    transition: .2s ease;
+}
+.btn:hover{
+    opacity: 0.8;
+}
+.subtotal{
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+}
+.checkout{
+    padding: 10px;
+}

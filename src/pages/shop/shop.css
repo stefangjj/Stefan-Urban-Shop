@@ -1,0 +1,12 @@
+.shopTitle h1{
+    font-size: 40px;
+    text-transform: uppercase;
+    margin: 50px;
+    padding: 20px;
+    font-family: 'Caprasimo', cursive;
+    color: rgb(183, 87, 2);
+}
+.products{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
