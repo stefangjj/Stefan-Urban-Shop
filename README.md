@@ -9,7 +9,9 @@ I have used useContext mainly to manage the states when I add the products to th
 # Screenshots
 
 ![Screenshot 1](./public/screenshots/ss1.png)
+
 ![Screenshot 2](./public/screenshots/ss2.png)
+
 ![Screenshot 3](./public/screenshots/ss3.png)
 
 # Technologies Used
